@@ -43,4 +43,4 @@ readonly G_BCM_FW_GIT_REV="8081cd2bddb1569abe91eb50bd687a2066a33342"
 readonly G_UBI_FILE_NAME='rootfs.ubi.img'
 
 # default mirror
-readonly DEF_DEBIAN_MIRROR="https://snapshot.debian.org/archive/debian/20210813T203009Z/"
+readonly DEF_DEBIAN_MIRROR="https://deb.debian.org/debian/"
